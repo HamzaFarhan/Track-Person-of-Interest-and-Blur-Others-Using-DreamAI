@@ -1,5 +1,5 @@
 # Track-Person-of-Interest-and-Blur-Others-Using-DreamAI
-Using pre-trained face detection and object detection models to detect and blur out people who are not the person of interest (PoI).
+Using pre-trained face detection and object detection models to detect and blur out people who are not the Person of Interest (PoI) as well as using OpenCV to track the PoI.
 
 DreamAI is an under development deep learning library written in Pytorch and inspired by FastAI. This notebook is not a tutorial on DreamAI, it is just an example of how it can be used for video surveillance. Stay tuned for a detailed overview/tutorial of DreamAI as well as other examples.
 
